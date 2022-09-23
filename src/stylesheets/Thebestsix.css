@@ -1,0 +1,53 @@
+.contenedor-thebestsix {
+    width: 1170px;
+    height: 368px;
+    margin: 10px 10px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffffff;
+    box-shadow: 0 3px 13px 1px rgb(0, 0, 0 / 9%);
+}
+
+.imagen-thebestsix {
+    height: 100%;
+    width: auto;
+}
+
+.contenedor-texto-thebestsix {
+    text-align: center;
+    padding: 40px;
+    font-family: Lato, sans-serif;
+    font-weight: 400;
+    line-height: 1.5rem;
+}
+
+.nombre-thebestsix {
+    font-size: 1.3rem;
+}
+
+.tipos-thebestsix {
+    font-size: 1.1rem;
+    margin-top: 15px;
+    padding-bottom: 25px;
+}
+
+.ventajadetipo-thebestsix {
+    font-size: 1.0rem;
+}
+
+.desventajadetipo-thebestsix {
+    font-size: 1.0rem;
+    padding-bottom: 10px;
+}
+
+.pokedex-thebestsix {
+    font-size: 0.9rem;
+    text-align: justify;
+}
+
+.logo-thebestsix {
+    height: 40px;
+    width: 40px;
+    margin-top: 15px;
+}
